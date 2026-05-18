@@ -1,8 +1,8 @@
-# 🏘️ Property Assistant — Real Estate & Property AI Chatbot
+# 🏘️ DRC Property Assistant — Real Estate & Property AI Chatbot
 
 A production-grade, conversational AI demo for the real estate and property industry. Built with **Python + FastAPI** on the backend and **React + Vite + Tailwind** on the frontend, with a **fair-housing-first** architecture and rich response blocks for property listings, neighborhoods, projects, EMI estimation, viewings, and document checklists.
 
-> ⚠️ **Demo only.** Property Assistant is not a licensed real estate brokerage, RBI-regulated lender, or RERA-registered platform. All properties, neighborhoods, projects, RERA IDs, and agent names are fictional. The bot uses a generic functional name ("Property Assistant") rather than a brand persona — this is intentional, since descriptive terms describing the actual function cannot be trademarked as brands for those same goods.
+> ⚠️ **Demo only.** DRC Property Assistant is not a licensed real estate brokerage, RBI-regulated lender, or RERA-registered platform. All properties, neighborhoods, projects, RERA IDs, and agent names are fictional. The bot uses a generic functional name ("DRC Property Assistant") rather than a brand persona — this is intentional, since descriptive terms describing the actual function cannot be trademarked as brands for those same goods.
 
 ![CI](https://img.shields.io/github/actions/workflow/status/drcinfotech/Real-Estate-AI-Chatbot/ci.yml?branch=main&label=tests)
 ![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-3776AB?logo=python&logoColor=white)
@@ -231,7 +231,7 @@ This is a **demonstration project**. It is not production-ready real-estate soft
 
 **Specifically:**
 
-- 🚫 **Not a licensed real estate brokerage.** Property Assistant does not list real properties, broker real deals, or hold real-estate licenses.
+- 🚫 **Not a licensed real estate brokerage.** DRC Property Assistant does not list real properties, broker real deals, or hold real-estate licenses.
 - 🚫 **Not an RBI-regulated lender.** EMI calculations are illustrative. Real home loans must come from RBI-regulated banks/NBFCs with proper sanctioning.
 - 🚫 **Not a RERA-registered platform.** RERA IDs in the data are fictional invented identifiers.
 - 🚫 **Mock listings only.** All properties, neighborhoods, projects, agents, and prices are fictional.
@@ -239,7 +239,7 @@ This is a **demonstration project**. It is not production-ready real-estate soft
 
 ### A note on the name
 
-Unlike a typical product, Property Assistant uses a **generic functional name** rather than an invented brand. This is intentional for a portfolio/demo project — descriptive terms describing the actual function of a tool cannot be claimed as trademarks for those same goods, which is the most honest way to sidestep brand-collision risk. If you fork this project and want to launch it commercially under a brand name, you'll need to choose a name and have a trademark attorney clear it for the jurisdictions and classes that matter to you.
+Unlike a typical product, DRC Property Assistant uses a **generic functional name** rather than an invented brand. This is intentional for a portfolio/demo project — descriptive terms describing the actual function of a tool cannot be claimed as trademarks for those same goods, which is the most honest way to sidestep brand-collision risk. If you fork this project and want to launch it commercially under a brand name, you'll need to choose a name and have a trademark attorney clear it for the jurisdictions and classes that matter to you.
 
 ---
 
