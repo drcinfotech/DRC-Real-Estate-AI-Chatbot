@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 drcinfotech
+Copyright (c) 2026 DRC Infotech LLP
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,46 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-────────────────────────────────────────────────────────────────────────────
-
-ADDITIONAL REAL ESTATE & PROPERTY DISCLAIMER
-
-This software is provided as a technical demonstration of conversational AI
-patterns for real estate and property use cases. It is NOT:
-
-  • A licensed real estate brokerage, advisor, or property consultant
-  • An RBI-regulated home-loan lender or financial advisor
-  • A RERA-registered platform for buying, selling, or renting property
-  • Connected to any real Multiple Listing Service (MLS), state RERA portal,
-    sub-registrar's office, or any actual property database
-
-The included data (properties, neighborhoods, projects, RERA IDs, agent
-names, owner/seller contact information) is entirely FICTIONAL. Property IDs
-like PROP-21089 and RERA IDs like GUJ/RAJ/SRT/2023/00482 are invented
-identifiers and do not correspond to any real property or registration.
-
-EMI calculations are illustrative only. They use a fixed 8.5% interest rate
-and 20-year tenure for demonstration. Actual home loan EMIs depend on your
-specific bank's interest rate, your credit profile, processing fees,
-insurance, tenure approval, and other factors. Compare actual offers and
-read sanction letters before committing.
-
-The fair-housing safety layer (refusing to filter properties by protected
-characteristics like religion, caste, community, race, family status, or
-disability, or by coded proxies for these) is a best-effort demonstration.
-It implements the spirit of Article 15 of the Indian Constitution, the US
-Fair Housing Act (42 USC §3604), and similar laws in other jurisdictions,
-but is not a substitute for legal compliance review. Real platforms must
-implement comprehensive fair-housing controls reviewed by qualified counsel.
-
-Document checklists are general guidance. Document requirements for property
-transactions vary by state, property type (freehold/leasehold), construction
-status (ready/under-construction), and applicable laws. Engage a local
-property lawyer for due diligence before any transaction.
-
-Do not deploy this software as a real estate platform without substantial
-modification, proper RERA registration where applicable, RBI compliance for
-any lending features, qualified legal review of fair-housing controls, and
-compliance with applicable data-protection laws (India's DPDP Act 2023 and
-equivalents).
